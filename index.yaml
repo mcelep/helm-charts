@@ -3,7 +3,17 @@ entries:
   nginx-example:
   - apiVersion: v2
     appVersion: 1.18.0
-    created: "2020-09-14T23:00:09.927827+02:00"
+    created: "2020-09-18T09:34:57.873036+02:00"
+    description: A Helm chart for Kubernetes
+    digest: ef757e8bab1909948db2246c6b92a36cb8f261a0f6d404334e41a9da5662c454
+    name: nginx-example
+    type: application
+    urls:
+    - https://mcelep.github.io/helm-charts/nginx-example-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2020-09-18T09:34:57.872557+02:00"
     description: A Helm chart for Kubernetes
     digest: 954d15696c56dda63d2bf27e9f531c083ab72feb8d9bb1d009bc268e9d1be1dc
     name: nginx-example
@@ -13,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.18.0
-    created: "2020-09-14T23:00:09.926447+02:00"
+    created: "2020-09-18T09:34:57.868975+02:00"
     description: A Helm chart for Kubernetes
     digest: 7f349f72f5b7ae1112dab0591f29e360f3dfb78297c4b238601e827568f9912c
     name: nginx-example
@@ -23,7 +33,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-14T23:00:09.925705+02:00"
+    created: "2020-09-18T09:34:57.867501+02:00"
     description: A Helm chart for Kubernetes
     digest: bb189cdc37fef57cf4be8aaa153b84d5e5330f2ef105178c0b16bf6084df5650
     name: nginx-example
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://mcelep.github.io/helm-charts/nginx-example-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-14T23:00:09.924255+02:00"
+generated: "2020-09-18T09:34:57.866022+02:00"
